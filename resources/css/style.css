@@ -1,3 +1,17 @@
-git remote add origin https://github.com/IterumDiscere/excursion.git
-git branch -M main
-git push -u origin main
+* {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a {
+ color: aquamarine;
+ font-size: 16px;
+}
